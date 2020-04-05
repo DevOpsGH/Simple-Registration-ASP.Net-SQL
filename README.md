@@ -19,36 +19,36 @@
 
 # How To Setup 
  Connect To Database
- Tools > Connect To Database
- ![ConnectionToDatabase](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/ConnectToDatabase.png)
+ Tools > Connect To Database<br/>
+ ![ConnectionToDatabase](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/ConnectToDatabase.png)<br/>
  
  TestConnection
- Select Server Name > Then Select Your Database Name > Press Test Connection to Test your Connection with your Database.
- ![TestConnection](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/ConnectionTest.png)
+ Select Server Name > Then Select Your Database Name > Press Test Connection to Test your Connection with your Database.<br/>
+ ![TestConnection](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/ConnectionTest.png)<br/>
  
  Replace Name With Your Database
- Replace This line :
-  public string connectionName = "Data Source=MTALHA_001;Initial Catalog=Database_Lab;Integrated Security=True";
-  In (addRecord.cs, searchRecord.cs, updateRecord.cs, emgergencyTab.cs)
+ Replace This line :<br/>
+  public string connectionName = "Data Source=MTALHA_001;Initial Catalog=Database_Lab;Integrated Security=True";<br/>
+  In (addRecord.cs, searchRecord.cs, updateRecord.cs, emgergencyTab.cs)<br/>
  ![replaceName](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/LineToBeReplace.png)
 
 # Demo Screenshot
- Form1
+ Form1<br/>
  ![Form1.cs](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/Form1.png)
- 
- AddRecord
+ <br/>
+ AddRecord<br/>
  ![Add Record](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/addRecord.PNG)
- 
- SearchRecord
+ <br/>
+ SearchRecord<br/>
  ![Search Record](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/searchRecord.PNG)
- 
- UpdateRecord
+ <br/>
+ UpdateRecord<br/>
  ![Update Record](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/updateRecord.PNG)
- 
- EmergencyTab
+ <br/>
+ EmergencyTab<br/>
  ![Emergency Tab](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/emergencyTab.PNG)
- 
- Help
+ <br/>
+ Help<br/>
  ![Help](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/helpMe.PNG)
- 
+ <br/>
  
