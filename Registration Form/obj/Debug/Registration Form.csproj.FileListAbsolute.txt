@@ -1,0 +1,16 @@
+c:\users\bluzibro\documents\visual studio 2015\Projects\Registration Form\Registration Form\bin\Debug\Registration Form.exe.config
+c:\users\bluzibro\documents\visual studio 2015\Projects\Registration Form\Registration Form\bin\Debug\Registration Form.exe
+c:\users\bluzibro\documents\visual studio 2015\Projects\Registration Form\Registration Form\bin\Debug\Registration Form.pdb
+c:\users\bluzibro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration_Form.Form1.resources
+c:\users\bluzibro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration_Form.Properties.Resources.resources
+c:\users\bluzibro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration Form.csproj.GenerateResource.Cache
+c:\users\bluzibro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration Form.exe
+c:\users\bluzibro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration Form.pdb
+C:\Users\BluziBro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration_Form.addRecord.resources
+C:\Users\BluziBro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration_Form.helpMe.resources
+C:\Users\BluziBro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration_Form.emergencyTab.resources
+C:\Users\BluziBro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration_Form.searchRecord.resources
+C:\Users\BluziBro\documents\visual studio 2015\Projects\Registration Form\Registration Form\obj\Debug\Registration_Form.updateRecord.resources
+C:\Users\BluziBro\Desktop\Registration Form\Registration Form\bin\Debug\Registration Form.exe.config
+C:\Users\BluziBro\Desktop\Registration Form\Registration Form\obj\Debug\Registration Form.exe
+C:\Users\BluziBro\Desktop\Registration Form\Registration Form\obj\Debug\Registration Form.pdb
