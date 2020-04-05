@@ -19,19 +19,23 @@
 
 # How To Setup 
  Connect To Database
- Tools > Connect To Database<br/>
+  Tools > Connect To Database<br/>
  ![ConnectionToDatabase](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/ConnectToDatabase.png)<br/>
  
  TestConnection
- Select Server Name > Then Select Your Database Name > Press Test Connection to Test your Connection with your Database.<br/>
+  Select Server Name > Then Select Your Database Name > Press Test Connection to Test your Connection with your Database.<br/>
  ![TestConnection](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/ConnectionTest.png)<br/>
+ 
+ Getting Your SQL Server Name<br/>
+  Press On Data Connections on the leftSide and Go To Properties and Copy ConnectionString<br/>
+ ![GetYourSqlName](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/HowToGetName.PNG)<br/>
  
  Replace Name With Your Database
  Replace This line :<br/>
   public string connectionName = "Data Source=MTALHA_001;Initial Catalog=Database_Lab;Integrated Security=True";<br/>
   In (addRecord.cs, searchRecord.cs, updateRecord.cs, emgergencyTab.cs)<br/>
- ![replaceName](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/LineToBeReplace.png)
-
+ ![replaceName](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/LineToBeReplace.png)<br/>
+ 
 # Demo Screenshot
  Form1<br/>
  ![Form1.cs](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/Form1.png)
