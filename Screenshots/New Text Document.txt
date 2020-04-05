@@ -1,6 +1,0 @@
-public string connectionName = "Data Source=MTALHA_001;Initial Catalog=Database_Lab;Integrated Security=True";
-
-
-Tools > Connect to Database
-
-
