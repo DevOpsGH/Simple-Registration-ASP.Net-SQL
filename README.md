@@ -21,39 +21,42 @@
 # How To Setup 
  Connect To Database
   Tools > Connect To Database<br/>
- ![ConnectionToDatabase](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/ConnectToDatabase.png)<br/>
+ ![ConnectionToDatabase](Screenshots/ConnectToDatabase.png)<br/>
  
  TestConnection
   Select Server Name > Then Select Your Database Name > Press Test Connection to Test your Connection with your Database.<br/>
- ![TestConnection](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/ConnectionTest.png)<br/>
+
+ ![TestConnection](Screenshots/ConnectionTest.png)<br/>
  
  Getting Your SQL Server Name<br/>
   Press On Data Connections on the leftSide and Go To Properties and Copy ConnectionString<br/>
- ![GetYourSqlName](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/HowToGetName.PNG)<br/>
+
+ ![GetYourSqlName](Screenshots/HowToGetName.PNG)<br/>
  
  Replace Name With Your Database<br/>
  Replace This line :<br/>
   public string connectionName = "Data Source=MSSQLSERVER;Initial Catalog=Database_Lab;Integrated Security=True";<br/>
   In (addRecord.cs, searchRecord.cs, updateRecord.cs, emgergencyTab.cs)<br/>
- ![replaceName](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/LineToBeReplace.png)<br/>
+  
+ ![replaceName](Screenshots/LineToBeReplace.png)<br/>
  
 # Demo Screenshot
  Form1<br/>
- ![Form1.cs](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/Form1.png)
+ ![Form1.cs](Screenshots/Form1.png)
  <br/>
  AddRecord<br/>
- ![Add Record](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/addRecord.PNG)
+ ![Add Record](Screenshots/addRecord.PNG)
  <br/>
  SearchRecord<br/>
- ![Search Record](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/searchRecord.PNG)
+ ![Search Record](Screenshots/searchRecord.PNG)
  <br/>
  UpdateRecord<br/>
- ![Update Record](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/updateRecord.PNG)
+ ![Update Record](Screenshots/updateRecord.PNG)
  <br/>
  EmergencyTab<br/>
- ![Emergency Tab](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/emergencyTab.PNG)
+ ![Emergency Tab](Screenshots/emergencyTab.PNG)
  <br/>
  Help<br/>
- ![Help](https://github.com/DevOpsGH/Simple-Registration-ASP.Net-SQL/tree/master/Screenshots/helpMe.PNG)
+ ![Help](Screenshots/helpMe.PNG)
  <br/>
  
