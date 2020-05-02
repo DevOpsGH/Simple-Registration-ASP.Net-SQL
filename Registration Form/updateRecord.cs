@@ -12,7 +12,7 @@ namespace Registration_Form
 {
     public partial class updateRecord : UserControl
     {
-        public string connectionName = "Data Source=MTALHA_001;Initial Catalog=Database_Lab;Integrated Security=True";
+        public string connectionName = "Data Source=MSSQLSERVER;Initial Catalog=Database_Lab;Integrated Security=True";
 
         public updateRecord()
         {

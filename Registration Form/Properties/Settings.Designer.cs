@@ -26,7 +26,7 @@ namespace Registration_Form.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MTALHA_001;Initial Catalog=Database_Lab;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MSSQLSERVER;Initial Catalog=Database_Lab;Integrated Security=True")]
         public string Database_LabConnectionString {
             get {
                 return ((string)(this["Database_LabConnectionString"]));

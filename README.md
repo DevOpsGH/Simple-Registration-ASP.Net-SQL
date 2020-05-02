@@ -32,7 +32,7 @@
  
  Replace Name With Your Database<br/>
  Replace This line :<br/>
-  public string connectionName = "Data Source=MTALHA_001;Initial Catalog=Database_Lab;Integrated Security=True";<br/>
+  public string connectionName = "Data Source=MSSQLSERVER;Initial Catalog=Database_Lab;Integrated Security=True";<br/>
   In (addRecord.cs, searchRecord.cs, updateRecord.cs, emgergencyTab.cs)<br/>
  ![replaceName](https://github.com/code-rez/Registration_Form/blob/master/Screenshots/LineToBeReplace.png)<br/>
  

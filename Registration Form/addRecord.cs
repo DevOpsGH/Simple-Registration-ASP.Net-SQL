@@ -18,7 +18,7 @@ namespace Registration_Form
             pictureBox2.Hide();
         }
 
-        public string connectionName = "Data Source=MTALHA_001;Initial Catalog=Database_Lab;Integrated Security=True";
+        public string connectionName = "Data Source=MSSQLSERVER;Initial Catalog=Database_Lab;Integrated Security=True";
 
         private void insert_Click(object sender, EventArgs e)
         {
